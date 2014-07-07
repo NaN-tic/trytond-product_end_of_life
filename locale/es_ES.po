@@ -1,0 +1,15 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:product.configuration,end_of_life_template:"
+msgid "End of life notify template"
+msgstr "Plantilla de notificación fin de vida"
+
+msgctxt "field:product.template,end_of_life:"
+msgid "End of life"
+msgstr "Fin de vida"
+
+msgctxt "model:ir.trigger,name:end_of_life_trigger"
+msgid "End of life notify trigger"
+msgstr "Disparador de notificación fin de vida"
